@@ -1,7 +1,8 @@
-### Hi there 👋
-# Siddharth Desai Portfolio
+
+# Siddharth Desai 👋
 
 <p align="center"> Broomfield, CO 80021 | Phone: 908-883-0191 | Email: shdesai118@gmail.com
+  <br/>
 Portfolio: https://shd118.github.io/Portfolio/| LinkedIn: https://www.linkedin.com/in/siddharth-desai-379040193/ </p>
 
 ## Description
@@ -11,12 +12,12 @@ I am in the field of information technology and seeking to become a full-stack d
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on earning a Full Stack Developer certificate from University of Denver
+- 🌱 I’m currently learning Node.js
+- 👯 I’m looking to collaborate on web application using new technologies
+- 🤔 I’m looking for help with backend development 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: shdesai118@gmail.com
+- 😄 Pronouns: Sir
+- ⚡ Fun fact: I have a dog
 -->
