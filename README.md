@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Siddharth Desai Portfolio
 
-< p align="center"> Broomfield, CO 80021 | Phone: 908-883-0191 | Email: shdesai118@gmail.com
+<p align="center"> Broomfield, CO 80021 | Phone: 908-883-0191 | Email: shdesai118@gmail.com
 Portfolio: https://shd118.github.io/Portfolio/| LinkedIn: https://www.linkedin.com/in/siddharth-desai-379040193/ </p>
 
 ## Description
