@@ -6,7 +6,10 @@
 Portfolio: https://shd118.github.io/Portfolio/ | LinkedIn: https://www.linkedin.com/in/siddharth-desai-379040193/ </p>
 
 ## Description
-I am in the field of information technology and seeking to become a full-stack developer. Born and raised in NJ and recently moved to Colorado and currently working fully remote. Living with my lovely wife and a puppy named Hiro in Broomfield Colorado. I graduated from NJIT with a degree in Computer science. I spent most of my career at Lockheed Martin as an engineer and now coming close to my 2 year mark at PSEG. I am always a team player and often go out of my way to help others whenever I can. I love learning and can spend hours reading about topics that interest me such as hydroponics, philosophy, physics, technology and much more. One of my goals is to create a nonprofit to help promote hydroponics to areas around the world where soil isn’t rich and water is sparse. If my profile sparks interest and if I can contribute to your team feel free to reach out.
+
+Currently working in information technology, I am studying to become a full stack developer. I was born and raised in New Jersey but recently moved to Colorado with my lovely wife and dog. I graduated from New Jersey Institute of Technology with a degree in Computer Science. I spent most of my career at Lockheed Martin as an engineer until two years ago when I transitioned to PSEG as a technology engineer.
+I pride myself on being a team player and enjoy collaborating with others. I love learning and you will often find me reading about topics that interest me such as hydroponics, philosophy, physics, technology and more. One of my goals is to create a nonprofit to help promote hydroponics in areas around the world with poor soil and water is sparse.
+Interested by what you see? Reach out and let’s discuss how I can contribute to your team.
 
 ## Resume Link: [Resume](https://docs.google.com/document/d/1Ij2VfBNSyzIZ9crEK5QgT4pa1x6CXntlaTtKN9yqx_M/edit?usp=sharing)
 
@@ -14,8 +17,8 @@ I am in the field of information technology and seeking to become a full-stack d
 - 🔭 I’m currently working on earning a Full Stack Developer certificate from University of Denver
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on web application using new technologies
-- 🤔 I’m looking for help with backend development 
-- 💬 Ask me about ...
+- 🤔 I’m looking to help with backend and frontend development 
+- 💬 Ask me about my interest
 - 📫 How to reach me: shdesai118@gmail.com
 - 😄 Pronouns: Sir
 - ⚡ Fun fact: I have a dog
